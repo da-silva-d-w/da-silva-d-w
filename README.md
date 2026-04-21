@@ -5,7 +5,7 @@ I am a Data Professional focused on building end-to-end solutions. Currently fin
 
 ---
 
-## 🚀 Featured Project: Visual-AM
+## 🖥️ Featured Project: Visual-AM
 **A No-Code Web Platform for Machine Learning Exploration**
 
 Visual-AM is my flagship project developed during my Master's at UNIFEI. It's a no-code web tool designed to democratize Machine Learning study by providing a visual, interactive interface for the entire ML lifecycle.
@@ -37,4 +37,4 @@ Visual-AM is my flagship project developed during my Master's at UNIFEI. It's a 
 - **Technical Degree in Industrial Automation** @ IFRJ
 
 📫 **Let's connect:**
-[LinkedIn](https://www.linkedin.com/in/denis-w-silva/) | [Email](mailto:denis.programacoes@gmail.com) | [Lattes](lattes.cnpq.br/1460171516185712)
+[LinkedIn](https://www.linkedin.com/in/denis-w-silva/) | [Email](mailto:denis.programacoes@gmail.com) | [Lattes](https://lattes.cnpq.br/1460171516185712)
