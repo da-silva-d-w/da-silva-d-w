@@ -27,7 +27,7 @@ Visual-AM is my flagship project developed during my Master's at UNIFEI. It's a 
 - **Web Scraping:** Advanced pipelines with **Selenium**, **BeautifulSoup** and **Requests**.
 - **APIs:** Fast and documented REST APIs with **FastAPI**.
 - **Databases:** **PostgreSQL**, **SQLite** and relational data modeling.
-- **DevOps:** Version control with **Git** and cloud deployment (**Render**, **Streamlit Cloud**).
+- **Version Control & Deployment:** Version control with **Git** and cloud deployment (**Render**, **Streamlit Cloud**).
 
 ---
 
