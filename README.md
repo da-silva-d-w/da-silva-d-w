@@ -33,8 +33,8 @@ Visual-AM is my flagship project developed during my Master's at UNIFEI. It's a 
 
 ## 👨‍💻 Academic Context & Contact
 - **MSc in Computer Science** @ UNIFEI (2024-2026)
-- **BSc in Bioprocess Engineering** @ UNIFEI
-- **Technical Degree in Industrial Automation** @ IFRJ
+- **BSc in Bioprocess Engineering** @ UNIFEI (2018-2023)
+- **Technical Degree in Industrial Automation** @ IFRJ (2013-2016)
 
 📫 **Let's connect:**
 [LinkedIn](https://www.linkedin.com/in/denis-w-silva/) | [Email](mailto:denis.programacoes@gmail.com) | [Lattes](https://lattes.cnpq.br/1460171516185712)
