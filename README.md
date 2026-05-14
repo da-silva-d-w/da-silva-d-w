@@ -33,7 +33,7 @@ Visual-AM is my flagship project developed during my Master's at UNIFEI. It's a 
 
 ## 👨‍💻 Academic Context & Contact
 - **MSc in Computer Science** @ UNIFEI (2024-2026)
-- **B.S. in Bioprocess Engineering** @ UNIFEI
+- **BSc in Bioprocess Engineering** @ UNIFEI
 - **Technical Degree in Industrial Automation** @ IFRJ
 
 📫 **Let's connect:**
