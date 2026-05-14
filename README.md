@@ -1,7 +1,7 @@
 # Hi, I'm Denis W. da Silva 👋
 ### Machine Learning Developer | Data Scientist | Python Specialist
 
-I am a Data Professional focused on building end-to-end solutions. Currently finishing my Master's in Computer Science, I specialize in transforming complex data workflows into functional, interactive tools.
+MSc in Computer Science and Technology and Data Science/Machine Learning professional focused on developing end-to-end solutions in Python. I have hands-on experience covering data engineering, applied machine learning, and interactive web applications.
 
 ---
 
