@@ -11,7 +11,7 @@ from data upload to trained model — without writing a single line of code.
 
 🔗 Live Demo: [visual-am.streamlit.app](https://visual-am.streamlit.app/)
 
-** 🛠️ What's under the hood?**
+**🛠️ What's under the hood?**
 - Core Engine: Python with Scikit-learn (Classification, Regression, Clustering, PCA)
 - Interface: Streamlit, built for a fully visual, no-code experience
 - Data Handling: Pandas & NumPy for ETL and preprocessing
