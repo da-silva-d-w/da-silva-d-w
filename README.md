@@ -44,4 +44,4 @@ from data upload to trained model — without writing a single line of code.
 - **Technical Degree in Industrial Automation** @ IFRJ (2013-2016)
 
 📫 **Let's connect:**
-[LinkedIn](https://www.linkedin.com/in/denis-w-silva/) | [Email](mailto:denis.programacoes@gmail.com) | [Lattes](https://lattes.cnpq.br/1460171516185712)
+[LinkedIn](https://www.linkedin.com/in/denis-w-silva/) | [Email](mailto:03willian10@gmail.com) | [Lattes](https://lattes.cnpq.br/1460171516185712)
