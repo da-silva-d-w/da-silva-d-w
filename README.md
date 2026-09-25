@@ -1,27 +1,34 @@
 # Hi, I'm Denis W. da Silva 👋
-### Machine Learning Developer | Data Scientist | Python Specialist
+### Data Scientist | Python, SQL & Machine Learning
 
 MSc in Computer Science and Technology and Data Science/Machine Learning professional focused on developing end-to-end solutions in Python. I have hands-on experience covering data engineering, applied machine learning, and interactive web applications.
 
 ---
 
 ## 🖥️ Featured Project: Visual-AM
-**A No-Code Web Platform for Machine Learning Exploration**
+An interactive no-code platform that lets anyone run a full Machine Learning workflow — 
+from data upload to trained model — without writing a single line of code.
 
-Visual-AM is my flagship project developed during my Master's at UNIFEI. It's a no-code web tool designed to democratize Machine Learning study by providing a visual, interactive interface for the entire ML lifecycle.
+🔗 Live Demo: [visual-am.streamlit.app](https://visual-am.streamlit.app/)
 
-🔗 **Live Demo:** [visual-am.streamlit.app](https://visual-am.streamlit.app)
+** 🛠️ What's under the hood?**
+- Core Engine: Python with Scikit-learn (Classification, Regression, Clustering, PCA)
+- Interface: Streamlit, built for a fully visual, no-code experience
+- Data Handling: Pandas & NumPy for ETL and preprocessing
+- Visualization: Plotly, Matplotlib & Seaborn for interactive charts
+- Real users tested the tool end-to-end and rated it highly across every usability metric evaluated
 
-### 🛠️ What's under the hood?
-- **Core Engine:** Python with **Scikit-learn** for modeling (Classification, Regression, Clustering, PCA).
-- **Interface:** **Streamlit** for a seamless, interactive no-code experience.
-- **Data Handling:** **Pandas** & **NumPy** for robust ETL and data processing.
-- **Visualization:** **Plotly**, **Matplotlib** & **Seaborn** for interactive charts and visual feedback.
-- **Methodology:** Validated using **DSRM**, achieving high scores in usability and educational effectiveness.
-
-*Note: The source code is currently private due to intellectual property registration at UNIFEI.*
+*Note: source code is private, registered as intellectual property (INPI, Brazil).*
 
 ---
+
+## 📂 Other Projects
+
+- **[Predictive Maintenance — Steel Industry](https://github.com/da-silva-d-w/Manutencao-Preditiva-e-Engenharia-de-Dados-Siderurgicos)** — analytical pipeline with SQL (window functions, relational modeling) and Power BI dashboards (Star Schema, DAX)
+- **[Craft Beer ETL Pipeline](https://github.com/da-silva-d-w/ETL-e-Analise-de-Dados-Cervejeiros)** — end-to-end ETL with open data, data quality handling, indexing and transactions in SQL
+- **[WebrewScraper](https://github.com/da-silva-d-w/WebrewScraper)** — FastAPI REST API backed by a web scraping data collection pipeline
+
+- ---
 
 ## 🔧 Other Technical Skills
 - **Web Scraping:** Advanced pipelines with **Selenium**, **BeautifulSoup** and **Requests**.
