@@ -26,7 +26,7 @@ from data upload to trained model — without writing a single line of code.
 
 - **[Predictive Maintenance — Steel Industry](https://github.com/da-silva-d-w/Manutencao-Preditiva-e-Engenharia-de-Dados-Siderurgicos)** — analytical pipeline with SQL (window functions, relational modeling) and Power BI dashboards (Star Schema, DAX)
 - **[Craft Beer ETL Pipeline](https://github.com/da-silva-d-w/ETL-e-Analise-de-Dados-Cervejeiros)** — end-to-end ETL with open data, data quality handling, indexing and transactions in SQL
-- **[WebrewScraper](https://github.com/da-silva-d-w/WebrewScraper)** — FastAPI REST API backed by a web scraping data collection pipeline
+- **[WEBrewScraper](https://github.com/da-silva-d-w/WebrewScraper)** — FastAPI REST API backed by a web scraping data collection pipeline
 
 - ---
 
