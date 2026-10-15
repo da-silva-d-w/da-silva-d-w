@@ -24,13 +24,13 @@ ith Python, Streamlit and Scikit-learn. Registered with Brazil's INPI; source co
 - ---
 
 ## 🔧 Technical Skills
-Data Science & ML: Scikit-Learn, XGBoost (preprocessing, cross-validation, hyperparameter tuning, model evaluation and deployment)
-Data Analysis: Pandas, NumPy, Plotly, Matplotlib, Seaborn, Power BI (Star Schema modeling and DAX)
-Databases: SQL (PostgreSQL, SQLite)
-APIs & Deployment: FastAPI, Streamlit Community Cloud, Render
-Generative AI: LLMs, Embeddings, RAG and MCP
-Big Data & Cloud: AWS (EC2, S3, Lambda, Athena, VPC), Spark/PySpark, Docker, Linux Bash
-Languages: English (Advanced), Spanish (Intermediate), French (Basic)
+* **Data Science & ML:** Scikit-Learn, XGBoost (preprocessing, cross-validation, hyperparameter tuning, model evaluation and deployment)
+* **Data Analysis:** Pandas, NumPy, Plotly, Matplotlib, Seaborn, Power BI (Star Schema modeling and DAX)
+* **Databases:** SQL (PostgreSQL, SQLite)
+* **APIs & Deployment:** FastAPI, Streamlit Community Cloud, Render
+* **Generative AI:** LLMs, Embeddings, RAG and MCP
+* **Big Data & Cloud:** AWS (EC2, S3, Lambda, Athena, VPC), Spark/PySpark, Docker, Linux Bash
+* **Languages:** English (Advanced), Spanish (Intermediate), French (Basic)
 
 
 ---
