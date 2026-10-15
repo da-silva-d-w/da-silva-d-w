@@ -17,9 +17,10 @@ ith Python, Streamlit and Scikit-learn. Registered with Brazil's INPI; source co
 ---
 
 ## 📂 Other Projects
-- **[Craft Beer ETL Pipeline](https://github.com/da-silva-d-w/ETL-e-Analise-de-Dados-Cervejeiros)** — end-to-end ETL with open data, data quality handling, indexing and transactions in SQL
-- **[Predictive Maintenance — Steel Industry](https://github.com/da-silva-d-w/Manutencao-Preditiva-e-Engenharia-de-Dados-Siderurgicos)** — analytical pipeline with SQL (window functions, relational modeling) and Power BI dashboards (Star Schema, DAX)
-- **[WEBrewScraper](https://github.com/da-silva-d-w/WebrewScraper)** — FastAPI REST API backed by a web scraping data collection pipeline
+* **[Craft Beer ETL Pipeline](https://github.com/da-silva-d-w/ETL-e-Analise-de-Dados-Cervejeiros)** — end-to-end ETL with open data, data quality handling, indexing and transactions in SQL 🔗([Live API](https://etl-e-analise-de-dados-cervejeiros.onrender.com/docs))
+* **[Predictive Maintenance — Steel Industry](https://github.com/da-silva-d-w/Manutencao-Preditiva-e-Engenharia-de-Dados-Siderurgicos)** — analytical pipeline with SQL (window functions, relational modeling) and Power BI dashboards (Star Schema, DAX)
+* **[WEBrewScraper](https://github.com/da-silva-d-w/WebrewScraper)** — FastAPI REST API backed by a web scraping data collection pipeline 🔗([Live API](https://webrewscraper.onrender.com/docs))
+
 
 - ---
 
