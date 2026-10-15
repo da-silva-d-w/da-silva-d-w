@@ -1,40 +1,37 @@
-# Hi, I'm Denis W. da Silva 👋
+# Hi, I'm Denis W. da Silva
 ### Data Scientist | Python, SQL & Machine Learning
 
-MSc in Computer Science and Technology and Data Science/Machine Learning professional focused on developing end-to-end solutions in Python. I have hands-on experience covering data engineering, applied machine learning, and interactive web applications.
+MSc in Computer Science and Technology
 
 ---
 
 ## 🖥️ Featured Project: Visual-AM
-An interactive no-code platform that lets anyone run a full Machine Learning workflow — 
-from data upload to trained model — without writing a single line of code.
+An interactive no-code platform for exploring Machine Learning workflows — from data upload to model evaluation — without writing code.
 
 🔗 Live Demo: [visual-am.streamlit.app](https://visual-am.streamlit.app/)
 
-**🛠️ What's under the hood?**
-- Core Engine: Python with Scikit-learn (Classification, Regression, Clustering, PCA)
-- Interface: Streamlit, built for a fully visual, no-code experience
-- Data Handling: Pandas & NumPy for ETL and preprocessing
-- Visualization: Plotly, Matplotlib & Seaborn for interactive charts
-- Real users tested the tool end-to-end and rated it highly across every usability metric evaluated
+ith Python, Streamlit and Scikit-learn. Registered with Brazil's INPI; source code is private.
 
-*Note: source code is private, registered as intellectual property (INPI, Brazil).*
+*Built with Python, Streamlit and Scikit-learn. Registered with Brazil's INPI; source code is private.*
 
 ---
 
 ## 📂 Other Projects
-
-- **[Predictive Maintenance — Steel Industry](https://github.com/da-silva-d-w/Manutencao-Preditiva-e-Engenharia-de-Dados-Siderurgicos)** — analytical pipeline with SQL (window functions, relational modeling) and Power BI dashboards (Star Schema, DAX)
 - **[Craft Beer ETL Pipeline](https://github.com/da-silva-d-w/ETL-e-Analise-de-Dados-Cervejeiros)** — end-to-end ETL with open data, data quality handling, indexing and transactions in SQL
+- **[Predictive Maintenance — Steel Industry](https://github.com/da-silva-d-w/Manutencao-Preditiva-e-Engenharia-de-Dados-Siderurgicos)** — analytical pipeline with SQL (window functions, relational modeling) and Power BI dashboards (Star Schema, DAX)
 - **[WEBrewScraper](https://github.com/da-silva-d-w/WebrewScraper)** — FastAPI REST API backed by a web scraping data collection pipeline
 
 - ---
 
-## 🔧 Other Technical Skills
-- **Web Scraping:** Advanced pipelines with **Selenium**, **BeautifulSoup** and **Requests**.
-- **APIs:** Fast and documented REST APIs with **FastAPI**.
-- **Databases:** **PostgreSQL**, **SQLite** and relational data modeling.
-- **Version Control & Deployment:** Version control with **Git** and cloud deployment (**Render**, **Streamlit Cloud**).
+## 🔧 Technical Skills
+Data Science & ML: Scikit-Learn, XGBoost (preprocessing, cross-validation, hyperparameter tuning, model evaluation and deployment)
+Data Analysis: Pandas, NumPy, Plotly, Matplotlib, Seaborn, Power BI (Star Schema modeling and DAX)
+Databases: SQL (PostgreSQL, SQLite)
+APIs & Deployment: FastAPI, Streamlit Community Cloud, Render
+Generative AI: LLMs, Embeddings, RAG and MCP
+Big Data & Cloud: AWS (EC2, S3, Lambda, Athena, VPC), Spark/PySpark, Docker, Linux Bash
+Languages: English (Advanced), Spanish (Intermediate), French (Basic)
+
 
 ---
 
