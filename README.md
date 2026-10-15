@@ -10,8 +10,6 @@ An interactive no-code platform for exploring Machine Learning workflows — fro
 
 🔗 Live Demo: [visual-am.streamlit.app](https://visual-am.streamlit.app/)
 
-ith Python, Streamlit and Scikit-learn. Registered with Brazil's INPI; source code is private.
-
 *Built with Python, Streamlit and Scikit-learn. Registered with Brazil's INPI; source code is private.*
 
 ---
