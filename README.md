@@ -19,7 +19,7 @@ An interactive no-code platform for exploring Machine Learning workflows — fro
 * **[BrewInspector — Beer Recipe Data Analysis](https://github.com/da-silva-d-w/BrewInspector)**: ETL, data quality, relational modeling, SQL analytics, a FastAPI REST API and an interactive Streamlit dashboard.
 🔗 [Dashboard](https://brewinspector-dashboard.streamlit.app/) · [API REST (Swagger)](https://brewinspector-api.onrender.com/docs)
 * **[Predictive Maintenance — Steel Industry](https://github.com/da-silva-d-w/Manutencao-Preditiva-e-Engenharia-de-Dados-Siderurgicos)**: Analytical pipeline with SQL (window functions, relational modeling) and Power BI dashboards (Star Schema, DAX)
-* **[WEBrewScraper](https://github.com/da-silva-d-w/WebrewScraper)**: FastAPI REST API backed by a web scraping data collection pipeline 🔗([Live API](https://webrewscraper.onrender.com/docs))
+* **[WEBrewScraper](https://github.com/da-silva-d-w/WebrewScraper)**: FastAPI REST API backed by a web scraping data collection pipeline 🔗([API (Swagger UI)](https://webrewscraper.onrender.com/docs))
 
 
 - ---
