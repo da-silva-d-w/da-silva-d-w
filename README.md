@@ -18,9 +18,11 @@ An interactive no-code platform for exploring Machine Learning workflows — fro
 * **LifeSci Query: AI-Powered Scientific Literature Research**: Scientific literature search using PubMed, semantic retrieval, cross-encoder reranking, hybrid ranking (RRF), and LLM-based answer generation with quotation verification. 🔗[Live Demo](https://lifesci-query.streamlit.app/)
 * **[BrewInspector — Beer Recipe Data Analysis](https://github.com/da-silva-d-w/BrewInspector)**: ETL, data quality, relational modeling, SQL analytics, a FastAPI REST API and an interactive Streamlit dashboard.
 🔗 [Dashboard](https://brewinspector-dashboard.streamlit.app/) · 🔗 [API REST (Swagger)](https://brewinspector-api.onrender.com/docs)
+* **[Machine Learning and Data Science Projects](https://github.com/da-silva-d-w/ML_and_DS_Projects)**: A collection of practical projects focused on data analysis and machine learning, covering exploratory data analysis, data preprocessing, feature engineering, model development, evaluation, and interpretation. Current projects include:
+  - **Bank Marketing:** Binary classification to predict customer subscription to term deposits, exploring class imbalance, model optimization, and decision threshold selection.
+  - **Classificação de Cargas Elétricas:** Exploratory analysis and multiclass classification of industrial electrical load patterns.
 * **[Predictive Maintenance — Steel Industry](https://github.com/da-silva-d-w/Manutencao-Preditiva-e-Engenharia-de-Dados-Siderurgicos)**: Analytical pipeline with SQL (window functions, relational modeling) and Power BI dashboards (Star Schema, DAX)
 * **[WEBrewScraper](https://github.com/da-silva-d-w/WebrewScraper)**: FastAPI REST API backed by a web scraping data collection pipeline. 🔗[API (Swagger UI)](https://webrewscraper.onrender.com/docs)
-
 
 - ---
 
