@@ -1,7 +1,7 @@
 # Hi, I'm Denis W. da Silva
-### Data Scientist | Python, SQL & Machine Learning
+### Data Scientist | Machine Learning | Python, SQL & BI
 
-MSc in Computer Science and Technology
+M.Sc. in Computer Science and Technology and B.Sc. in Bioprocess Engineering from UNIFEI.
 
 ---
 
