@@ -21,6 +21,10 @@ An interactive no-code platform for exploring Machine Learning workflows — fro
 * **[Machine Learning and Data Science Projects](https://github.com/da-silva-d-w/ML_and_DS_Projects)**: A collection of practical projects focused on data analysis and machine learning, covering exploratory data analysis, data preprocessing, feature engineering, model development, evaluation, and interpretation. Current projects include:
   - **Bank Marketing:** Binary classification to predict customer subscription to term deposits, exploring class imbalance, model optimization, and decision threshold selection.
   - **Classificação de Cargas Elétricas:** Exploratory analysis and multiclass classification of industrial electrical load patterns.
+* **[Business Intelligence and Power BI Projects](https://github.com/da-silva-d-w/Projetos-de-Business-Intelligence-Power-BI)**: A collection of practical Business Intelligence projects developed with Power BI, covering interactive reports, data preparation, KPI analysis, and data visualization. Current projects include:
+  - **Vendas Globais:** Analysis of global sales, orders, discounts, and profitability across different countries and product categories.
+  - **Vendas, Custo, Margem de Lucro e KPI:** Sales and profitability analysis, including shipping costs, profit margins, and performance indicators.
+  - **Análise de Campanhas de Marketing:** Customer behavior, marketing campaign performance, and purchasing pattern analysis.
 * **[Predictive Maintenance — Steel Industry](https://github.com/da-silva-d-w/Manutencao-Preditiva-e-Engenharia-de-Dados-Siderurgicos)**: Analytical pipeline with SQL (window functions, relational modeling) and Power BI dashboards (Star Schema, DAX)
 * **[WEBrewScraper](https://github.com/da-silva-d-w/WebrewScraper)**: FastAPI REST API backed by a web scraping data collection pipeline. 🔗[API (Swagger UI)](https://webrewscraper.onrender.com/docs)
 
